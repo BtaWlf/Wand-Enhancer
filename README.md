@@ -4,8 +4,6 @@
 
 # WandEnhancer
 
-[![GitLab Mirror](https://img.shields.io/badge/GitLab-mirror-fc6d26?logo=gitlab)](https://gitlab.com/kitbyte/wand-enhancer)
-
 </div>
 
 <h4>An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand application.</h4>
